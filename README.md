@@ -1,6 +1,6 @@
 # MusicPlayer
 This is the music player with the interactive UI for the easy access for user
-This application can be used to play mp3 songs. The key features in this are as follows,
+This application can be used to play mp3 songs. The key features in this are as follows:
 * It contains the ability to fetch all the mp3 songs from the Local Storage. 
 * User can create his/her favourites playlist.
 * Favourites playlist will be permanent until user deletes the songs.
