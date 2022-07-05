@@ -22,7 +22,7 @@ public class FavoritesDBHandler extends SQLiteOpenHelper {
     public FavoritesDBHandler(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }
-
+ 
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL(TABLE_CREATE);
