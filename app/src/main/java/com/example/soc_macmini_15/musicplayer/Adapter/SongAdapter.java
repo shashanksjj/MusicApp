@@ -27,7 +27,7 @@ public class SongAdapter extends ArrayAdapter<SongsList> implements Filterable{
         this.mContext = mContext;
         this.songList = songList;
     }
-
+ 
     @NonNull
     @Override
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
